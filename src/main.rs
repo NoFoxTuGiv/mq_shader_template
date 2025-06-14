@@ -71,7 +71,7 @@ async fn main() {
 
 fn window_conf() -> Conf {
     Conf {
-        window_title: "Simple Shader Template".to_owned(),
+        window_title: "Simple Shader Template by NoFoxTuGiv".to_owned(),
         window_width: WIDTH,
         window_height: HEIGHT,
         ..Default::default()
